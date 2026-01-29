@@ -43,6 +43,8 @@ This project connects to Contentful to fetch blog content. To set it up:
         *   `coverImage` (media)
         *   `publishedDate` (date)
 
+    ![Contentful BlogPost Content Model Screenshot]()
+
 2.  **Content**: Create and **publish at least 3 blog posts** of type `blogPost`.
 
 3.  **API Keys**: Obtain your **Space ID** and **Content Delivery API (CDA) Access Token** from Contentful.
@@ -71,5 +73,4 @@ This project connects to Contentful to fetch blog content. To set it up:
 [Link to your Vercel deployment]
 
 ## GitHub Repository
-[[Link to your GitHub repository](https://github.com/Chirag-Tank1971/Contentful-driven-mini-marketing-site.git)]
-#
+[Link to your GitHub repository](https://github.com/Chirag-Tank1971/Contentful-driven-mini-marketing-site.git)
