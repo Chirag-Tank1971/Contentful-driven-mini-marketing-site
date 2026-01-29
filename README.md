@@ -71,5 +71,5 @@ This project connects to Contentful to fetch blog content. To set it up:
 [Link to your Vercel deployment]
 
 ## GitHub Repository
-[Link to your GitHub repository]
+[[Link to your GitHub repository](https://github.com/Chirag-Tank1971/Contentful-driven-mini-marketing-site.git)]
 #
