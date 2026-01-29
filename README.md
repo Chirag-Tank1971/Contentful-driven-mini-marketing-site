@@ -43,7 +43,7 @@ This project connects to Contentful to fetch blog content. To set it up:
         *   `coverImage` (media)
         *   `publishedDate` (date)
 
-    ![Contentful BlogPost Content Model Screenshot]()
+    ![Contentful BlogPost Content Model Screenshot](https://github.com/user-attachments/assets/3df40433-e566-4c3b-8b25-e335b2ca5276)
 
 2.  **Content**: Create and **publish at least 3 blog posts** of type `blogPost`.
 
@@ -70,7 +70,7 @@ This project connects to Contentful to fetch blog content. To set it up:
 4.  Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Deployed URL
-[Link to your Vercel deployment]
+[Link to Vercel deployment](https://contentful-driven-mini-marketing-si.vercel.app/)
 
 ## GitHub Repository
-[Link to your GitHub repository](https://github.com/Chirag-Tank1971/Contentful-driven-mini-marketing-site.git)
+[Link to GitHub repository](https://github.com/Chirag-Tank1971/Contentful-driven-mini-marketing-site.git)
