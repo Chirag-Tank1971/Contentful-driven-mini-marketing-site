@@ -1,4 +1,4 @@
-# Intern Marketing Blog: Next.js + Contentful Mini Production App
+# Contentful-driven mini marketing site: Next.js + Contentful Mini Production App
 
 ## Objective
 This project demonstrates real-world working knowledge of Next.js (App Router), TypeScript, Contentful (Delivery API), Tailwind CSS, and shadcn/ui by building a Contentful-driven mini marketing site.
