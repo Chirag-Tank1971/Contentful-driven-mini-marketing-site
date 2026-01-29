@@ -70,7 +70,7 @@ This project connects to Contentful to fetch blog content. To set it up:
 4.  Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Deployed URL
-[Link to your Vercel deployment]
+[Link to your Vercel deployment](https://contentful-driven-mini-marketing-si.vercel.app/)
 
 ## GitHub Repository
 [Link to your GitHub repository](https://github.com/Chirag-Tank1971/Contentful-driven-mini-marketing-site.git)
