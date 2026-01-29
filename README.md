@@ -43,7 +43,7 @@ This project connects to Contentful to fetch blog content. To set it up:
         *   `coverImage` (media)
         *   `publishedDate` (date)
 
-    ![Contentful BlogPost Content Model Screenshot](https://github.com/user-attachments/assets/3df40433-e566-4c3b-8b25-e335b2ca5276")
+    ![Contentful BlogPost Content Model Screenshot]("https://github.com/user-attachments/assets/3df40433-e566-4c3b-8b25-e335b2ca5276")
 
 2.  **Content**: Create and **publish at least 3 blog posts** of type `blogPost`.
 
