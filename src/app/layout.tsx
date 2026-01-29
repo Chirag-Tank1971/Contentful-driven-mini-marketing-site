@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Contentful-driven mini marketing",
+  title: "Contentful-driven mini marketing site",
   description: "Mini marketing site powered by Next.js and Contentful.",
 };
 
@@ -32,7 +32,8 @@ export default function RootLayout({
           <div className="flex w-full max-w-4xl flex-col">
             <header className="mb-8 flex items-center justify-between border-b border-zinc-200 pb-4 dark:border-zinc-800">
               <Link href="/" className="text-lg font-semibold tracking-tight">
-                Intern Marketing Blog
+              Contentful-driven mini marketing site
+
               </Link>
               <nav className="flex gap-4 text-sm font-medium text-zinc-600 dark:text-zinc-300">
                 <Link href="/" className="hover:text-zinc-900 dark:hover:text-zinc-50">
