@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Intern Marketing Blog",
+  title: "Contentful-driven mini marketing",
   description: "Mini marketing site powered by Next.js and Contentful.",
 };
 
